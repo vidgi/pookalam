@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pookalam/static/css/main.84e63c88.css",
+    "main.js": "/pookalam/static/js/main.fd237705.js",
+    "static/js/787.3a920c5d.chunk.js": "/pookalam/static/js/787.3a920c5d.chunk.js",
+    "static/media/06.png": "/pookalam/static/media/06.616a3acb069eb15d6362.png",
+    "static/media/10.png": "/pookalam/static/media/10.3e7157862500d18c8764.png",
+    "static/media/07.png": "/pookalam/static/media/07.c7711a74b418c24dfe1e.png",
+    "static/media/09.png": "/pookalam/static/media/09.141ee406afc89501735f.png",
+    "static/media/03.png": "/pookalam/static/media/03.cacd07ae5a767b12a368.png",
+    "static/media/02.png": "/pookalam/static/media/02.1795617e04746bb78c3c.png",
+    "static/media/08.png": "/pookalam/static/media/08.9b5edfcf4b109563999a.png",
+    "static/media/05.png": "/pookalam/static/media/05.e7c52410192f3567e007.png",
+    "static/media/04.png": "/pookalam/static/media/04.a5731dbcaedc85e7ccef.png",
+    "static/media/01.png": "/pookalam/static/media/01.5e7efe1aafdba41281ee.png",
+    "index.html": "/pookalam/index.html",
+    "main.84e63c88.css.map": "/pookalam/static/css/main.84e63c88.css.map",
+    "main.fd237705.js.map": "/pookalam/static/js/main.fd237705.js.map",
+    "787.3a920c5d.chunk.js.map": "/pookalam/static/js/787.3a920c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e63c88.css",
+    "static/js/main.fd237705.js"
+  ]
+}
