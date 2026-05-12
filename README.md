@@ -1,11 +1,13 @@
 wildflower pookalam
 
-- to run local: `yarn start`
-- to build: `yarn build`
-- to deploy: `yarn run deploy`
+- to run local: `pnpm dev`
+- to build: `pnpm build`
+- to deploy: `pnpm deploy`
 
 packages:
 
+- [vite](https://vitejs.dev/)
 - [three.js](https://threejs.org/)
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+- [@react-three/fiber](https://github.com/pmndrs/react-three-fiber)
 - [drei](https://github.com/pmndrs/drei)
+- [tailwindcss](https://tailwindcss.com/)
