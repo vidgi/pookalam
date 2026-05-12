@@ -2,7 +2,7 @@ wildflower pookalam
 
 - to run local: `pnpm dev`
 - to build: `pnpm build`
-- to deploy: `pnpm deploy`
+- to deploy: `pnpm run deploy`
 
 packages:
 
